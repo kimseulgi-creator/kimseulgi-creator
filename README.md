@@ -28,7 +28,8 @@
 
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimseulgi-creator&show_icons=true&theme=vue)
+## GitHub status
+<img src="https://github-readme-stats.vercel.app/api?username=kimseulgi-creator&show_icons=true&theme=vue"/>
 
 
 
