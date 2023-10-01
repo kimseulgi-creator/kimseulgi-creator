@@ -6,10 +6,11 @@
 
 <br>
 
-**E-mail** rlatmfrl9@naver.com <br>
-**Blog** https://velog.io/@seul-bean
+**E-mail** rlatmfrl9@naver.com <br />
+**Blog** https://velog.io/@seul-bean <br />
+**Git Book** https://seulgis-organization.gitbook.io
 
-<br>
+<br />
 
 ## Skills
 <div>
@@ -26,7 +27,7 @@
   <img src="https://img.shields.io/badge/Github-060E0B?style=flat&logo=github&logoColor=white" />
 </div>
 
-<br>
+<br />
 
 ## GitHub status
 <img src="https://github-readme-stats.vercel.app/api?username=kimseulgi-creator&show_icons=true&theme=vue"/>
