@@ -29,9 +29,9 @@
 
 <br />
 
-## GitHub status
+<!-- ## GitHub status
 <img src="https://github-readme-stats.vercel.app/api?username=kimseulgi-creator&show_icons=true&theme=vue"/>
-
+-->
 
 
 <!-- <span><img src="https://img.shields.io/badge/html5-5fc397?style=/html5&logo=html5&logoColor=ffffff"/></span>
